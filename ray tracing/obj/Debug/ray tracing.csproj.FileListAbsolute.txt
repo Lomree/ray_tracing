@@ -1,0 +1,65 @@
+C:\Users\denis\Desktop\учеба\графика\ray tracing\ray tracing\bin\Debug\ray tracing.exe.config
+C:\Users\denis\Desktop\учеба\графика\ray tracing\ray tracing\bin\Debug\ray tracing.exe
+C:\Users\denis\Desktop\учеба\графика\ray tracing\ray tracing\bin\Debug\ray tracing.pdb
+C:\Users\denis\Desktop\учеба\графика\ray tracing\ray tracing\bin\Debug\OpenTK.dll
+C:\Users\denis\Desktop\учеба\графика\ray tracing\ray tracing\bin\Debug\OpenTK.GLControl.dll
+C:\Users\denis\Desktop\учеба\графика\ray tracing\ray tracing\bin\Debug\OpenTK.pdb
+C:\Users\denis\Desktop\учеба\графика\ray tracing\ray tracing\bin\Debug\OpenTK.xml
+C:\Users\denis\Desktop\учеба\графика\ray tracing\ray tracing\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\denis\Desktop\учеба\графика\ray tracing\ray tracing\bin\Debug\OpenTK.GLControl.xml
+C:\Users\denis\Desktop\учеба\графика\ray tracing\ray tracing\obj\Debug\ray tracing.csprojAssemblyReference.cache
+C:\Users\denis\Desktop\учеба\графика\ray tracing\ray tracing\obj\Debug\ray_tracing.Form1.resources
+C:\Users\denis\Desktop\учеба\графика\ray tracing\ray tracing\obj\Debug\ray_tracing.Properties.Resources.resources
+C:\Users\denis\Desktop\учеба\графика\ray tracing\ray tracing\obj\Debug\ray tracing.csproj.GenerateResource.cache
+C:\Users\denis\Desktop\учеба\графика\ray tracing\ray tracing\obj\Debug\ray tracing.csproj.CoreCompileInputs.cache
+C:\Users\denis\Desktop\учеба\графика\ray tracing\ray tracing\obj\Debug\ray tracing.csproj.CopyComplete
+C:\Users\denis\Desktop\учеба\графика\ray tracing\ray tracing\obj\Debug\ray tracing.exe
+C:\Users\denis\Desktop\учеба\графика\ray tracing\ray tracing\obj\Debug\ray tracing.pdb
+C:\Users\Lomre\Desktop\Проги\ray-tracing\ray tracing\bin\Debug\ray tracing.exe.config
+C:\Users\Lomre\Desktop\Проги\ray-tracing\ray tracing\bin\Debug\ray tracing.exe
+C:\Users\Lomre\Desktop\Проги\ray-tracing\ray tracing\bin\Debug\ray tracing.pdb
+C:\Users\Lomre\Desktop\Проги\ray-tracing\ray tracing\bin\Debug\OpenTK.dll
+C:\Users\Lomre\Desktop\Проги\ray-tracing\ray tracing\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Lomre\Desktop\Проги\ray-tracing\ray tracing\bin\Debug\OpenTK.pdb
+C:\Users\Lomre\Desktop\Проги\ray-tracing\ray tracing\bin\Debug\OpenTK.xml
+C:\Users\Lomre\Desktop\Проги\ray-tracing\ray tracing\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\Lomre\Desktop\Проги\ray-tracing\ray tracing\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Lomre\Desktop\Проги\ray-tracing\ray tracing\obj\Debug\ray tracing.csprojAssemblyReference.cache
+C:\Users\Lomre\Desktop\Проги\ray-tracing\ray tracing\obj\Debug\ray_tracing.Form1.resources
+C:\Users\Lomre\Desktop\Проги\ray-tracing\ray tracing\obj\Debug\ray_tracing.Properties.Resources.resources
+C:\Users\Lomre\Desktop\Проги\ray-tracing\ray tracing\obj\Debug\ray tracing.csproj.GenerateResource.cache
+C:\Users\Lomre\Desktop\Проги\ray-tracing\ray tracing\obj\Debug\ray tracing.csproj.CopyComplete
+C:\Users\Lomre\Desktop\Проги\ray-tracing\ray tracing\obj\Debug\ray tracing.exe
+C:\Users\Lomre\Desktop\Проги\ray-tracing\ray tracing\obj\Debug\ray tracing.pdb
+C:\Users\Lomre\Desktop\Проги\ray_tracing\ray tracing\obj\Debug\ray tracing.csprojAssemblyReference.cache
+C:\Users\Lomre\Desktop\Проги\ray_tracing\ray tracing\obj\Debug\ray_tracing.Form1.resources
+C:\Users\Lomre\Desktop\Проги\ray_tracing\ray tracing\obj\Debug\ray_tracing.Properties.Resources.resources
+C:\Users\Lomre\Desktop\Проги\ray_tracing\ray tracing\obj\Debug\ray tracing.csproj.GenerateResource.cache
+C:\Users\Lomre\Desktop\Проги\ray_tracing\ray tracing\obj\Debug\ray tracing.exe
+C:\Users\Lomre\Desktop\Проги\ray_tracing\ray tracing\obj\Debug\ray tracing.pdb
+C:\Users\Lomre\Desktop\Проги\ray_tracing\ray tracing\bin\Debug\ray tracing.exe.config
+C:\Users\Lomre\Desktop\Проги\ray_tracing\ray tracing\bin\Debug\ray tracing.exe
+C:\Users\Lomre\Desktop\Проги\ray_tracing\ray tracing\bin\Debug\ray tracing.pdb
+C:\Users\Lomre\Desktop\Проги\ray_tracing\ray tracing\bin\Debug\OpenTK.dll
+C:\Users\Lomre\Desktop\Проги\ray_tracing\ray tracing\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Lomre\Desktop\Проги\ray_tracing\ray tracing\bin\Debug\OpenTK.pdb
+C:\Users\Lomre\Desktop\Проги\ray_tracing\ray tracing\bin\Debug\OpenTK.xml
+C:\Users\Lomre\Desktop\Проги\ray_tracing\ray tracing\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\Lomre\Desktop\Проги\ray_tracing\ray tracing\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Lomre\Desktop\Проги\ray_tracing\ray tracing\obj\Debug\ray tracing.csproj.CopyComplete
+C:\Users\Lomre\Desktop\ray_tracing\ray tracing\bin\Debug\ray tracing.exe.config
+C:\Users\Lomre\Desktop\ray_tracing\ray tracing\bin\Debug\ray tracing.exe
+C:\Users\Lomre\Desktop\ray_tracing\ray tracing\bin\Debug\ray tracing.pdb
+C:\Users\Lomre\Desktop\ray_tracing\ray tracing\bin\Debug\OpenTK.dll
+C:\Users\Lomre\Desktop\ray_tracing\ray tracing\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Lomre\Desktop\ray_tracing\ray tracing\bin\Debug\OpenTK.pdb
+C:\Users\Lomre\Desktop\ray_tracing\ray tracing\bin\Debug\OpenTK.xml
+C:\Users\Lomre\Desktop\ray_tracing\ray tracing\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\Lomre\Desktop\ray_tracing\ray tracing\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Lomre\Desktop\ray_tracing\ray tracing\obj\Debug\ray tracing.csprojAssemblyReference.cache
+C:\Users\Lomre\Desktop\ray_tracing\ray tracing\obj\Debug\ray_tracing.Form1.resources
+C:\Users\Lomre\Desktop\ray_tracing\ray tracing\obj\Debug\ray_tracing.Properties.Resources.resources
+C:\Users\Lomre\Desktop\ray_tracing\ray tracing\obj\Debug\ray tracing.csproj.GenerateResource.cache
+C:\Users\Lomre\Desktop\ray_tracing\ray tracing\obj\Debug\ray tracing.csproj.CopyComplete
+C:\Users\Lomre\Desktop\ray_tracing\ray tracing\obj\Debug\ray tracing.exe
+C:\Users\Lomre\Desktop\ray_tracing\ray tracing\obj\Debug\ray tracing.pdb
